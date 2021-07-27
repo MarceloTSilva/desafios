@@ -42,7 +42,8 @@ header nav a:hover{
 
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("img\capa-house.jpg");
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%);
+    background-image: url("../img/capa-house.jpg");
     /*esse rgba serve para deixar a imagem de fundo ligeiramente mais escura, melhorando a visualização do texto*/
     height: 400px;
     background-size:cover;
