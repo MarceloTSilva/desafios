@@ -10,3 +10,5 @@ Terceiro desafio, fazer um jogo de nave.
 Quarto desafio adicionado, o jogo Genius.
 
 Quinto desafio, o jogo do Chrome quando estamos sem conexão, do dinossauro pulando cactos.
+
+Sexto desafio, jogo da memória do Mario.
